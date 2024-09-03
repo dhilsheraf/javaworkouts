@@ -232,4 +232,4 @@ Find Second Highest and second least element from an array
 9-  reverse an array without using a new array & .reverse() method
 10- find key with highest value in an object
 11- generator function implementaions
-
+12 - find the average of even and odd numbers in an array
