@@ -150,3 +150,86 @@ Find Second Highest and second least element from an array
 10- find key with highest value in an object
 11- generator function implementaions
 concat ooperation
+
+practice this all
+
+1) Array: map, filter, reduce, find, sort, forEach 
+
+Q1) 
+find sum of age less than 30 
+[
+  { age: 28, name: "John Doe" },
+  { age: 34, name: "Jane Smith" },
+  { age: 29, name: "Alice Johnson" },
+  { age: 42, name: "Bob Brown" }
+]
+
+Q2) 
+find sum of this array
+const ab = [{af:34},{af:34},{af:34},{af:34}]
+
+Q3) 
+Write a Javascript program to display the status (I.e. display book name, author name & reading status) of books. You are given an object library in the code's template. It contains a list of books with the above mentioned properties.Your task is to display the following:
+
+If the book is unread:
+You still need to read '<book_name>' by <author_name>.
+If the book is read:
+Already read '<book_name>' by <author_name>.
+
+
+Q4) 
+Question: Multiply each element in array with index [1, 2, 3, 4, 5] to its double?"
+Expected Output: [0, 2, 6, 12, 20]
+Hint: Map
+
+Q5)
+Question: "How can you filter out only the odd numbers from the array [1, 2, 3, 4, 5]?"
+Expected Output: [1, 3, 5]
+Find the highest number in an array:
+Hint: filter
+
+Q6)
+Question: "How can you find the maximum value in the array [1, 2, 3, 4, 5]?"
+Expected Output: 5
+Find the smallest number in an array:
+Hint: reduce
+
+Q7)
+Question: "How can you find the minimum value in the array [1, 2, 3, 4, 5]?"
+Expected Output: 1
+Sum of all numbers in an array:
+Hint: reduce
+
+Q8)
+Question: "How can you calculate the sum of all the elements in the array [1, 2, 3, 4, 5]?"
+Expected Output: 15
+Hint: reduce
+
+
+Examples of Methods 
+
+2) Functions: call, apply, bind
+
+3) Objects: add, remove, modify an property, Object.keys, Object.values, Object.entries, Object.seal, Object.freeze, Object.assign(), Object.hasOwnProperty()
+
+4) String (less likely) : length, toUpperCase(), toLowerCase(), trim(), substring(), indexOf(), replace(), split(), charAt(), includes()
+
+Examples of Concepts 
+
+Promises - promise.all, promise.allsettled, promise.race, promise.any, async await
+
+shallow copy, deep copy, 
+
+currying, callback, funtion expression, arrow function,  
+
+spread, rest
+
+try catch finally, prototpye
+
+Find Second Highest and second least element from an array
+
+8-  Find the sum of prime numbers in a array 
+9-  reverse an array without using a new array & .reverse() method
+10- find key with highest value in an object
+11- generator function implementaions
+
